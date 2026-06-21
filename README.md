@@ -1,6 +1,6 @@
-# 🏥 Health Insurance Fraud Detection using Machine Learning
+#  Health Insurance Fraud Detection using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 Healthcare insurance fraud causes significant financial losses to insurance companies and affects the efficiency of healthcare systems. This project develops an **AI-based fraud detection system** that identifies potentially fraudulent health insurance claims using Machine Learning algorithms.
 
@@ -8,7 +8,7 @@ The system analyzes historical claim data, performs data preprocessing, applies 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Develop a machine learning model to detect fraudulent insurance claims.
 - Analyze healthcare claim patterns using data analytics.
@@ -74,7 +74,7 @@ The following classification algorithms are applied:
 
 ---
 
-## 📊 Model Evaluation
+##  Model Evaluation
 
 Models are evaluated using:
 
@@ -106,7 +106,6 @@ The project can be deployed using Streamlit:
 Features:
 
 - User-friendly dashboard
-- Claim input form
 - Real-time fraud prediction
 - Prediction result visualization
 
@@ -115,13 +114,14 @@ Features:
 ## How to Run the Project
 
 ### Clone Repository
+https://github.com/MUHSINA25/health-insurance-fraud-detection.git
 
 
-## 🌐 Live Demo
+##  Live Demo
 
 The deployed Health Insurance Fraud Detection application is available here:
 
-🔗 **Streamlit App:**  
+ **Streamlit App:**  
 https://health-insurance-fraud-detection-huru8j8rtwlodwvhho5xwe.streamlit.app/
 
 
